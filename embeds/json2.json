@@ -1,0 +1,51 @@
+{
+  "embeds": [
+    {
+      "color": 15444486,
+      "description": "_**Выберите игры которые вам интересны: **_"
+    }
+  ],
+  "components": [
+    {
+      "type": 1,
+      "components": [
+        {
+          "type": 3,
+          "custom_id": "games_roles_select",
+          "max_values": 7,
+          "min_values": 0,
+          "options": [
+            {
+              "label": "Minecraft",
+              "value": "1072465684547776553"
+            },
+            {
+              "label": "OSU",
+              "value": "1072466845170405386"
+            },
+            {
+              "label": "Dota 2",
+              "value": "1072466798693326910"
+            },
+            {
+              "label": "LoL",
+              "value": "1072466904662425641"
+            },
+            {
+              "label": "Rocket League",
+              "value": "1072466937742884935"
+            },
+            {
+              "label": "CS:GO",
+              "value": "1072466322841153546"
+            },
+            {
+              "label": "GTA V",
+              "value": "1072471198627266651"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
