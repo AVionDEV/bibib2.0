@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "discord.js": "^14.7.1"
-  }
+  },
+  "name": "bibib",
+  "version": "1.0.0",
+  "description": "Bibib's bot",
+  "main": "core.js",
+  "devDependencies": {},
+  "scripts": {
+    "server": "node ./core.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AVionDEV/bibib.git"
+  },
+  "keywords": [
+    "JS",
+    "JavaScript",
+    "NodeJS",
+    "Discord.JS"
+  ],
+  "author": "AVion <AVprojectTM@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVionDEV/bibib/issues"
+  },
+  "homepage": "https://github.com/AVionDEV/bibib#readme"
 }
