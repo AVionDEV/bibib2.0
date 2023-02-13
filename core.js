@@ -104,4 +104,4 @@ client.on("messageCreate", m => {
 
 // LOGIN
 
-client.login(process.env.BOT_TOKEN);
+client.login(`${process.env.BOT_TOKEN}`);
